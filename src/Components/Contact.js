@@ -9,8 +9,8 @@ class Contact extends Component {
       var city = this.props.data.address.city;
       var state = this.props.data.address.state;
       var zip = this.props.data.address.zip;
-      var phone= this.props.data.phone;
-      var email = this.props.data.email;
+      // var phone= this.props.data.phone;
+      // var email = this.props.data.email;
       var message = this.props.data.contactmessage;
     }
 
@@ -94,7 +94,7 @@ class Contact extends Component {
                         <span style={{color: "white"}}>
                         This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
                         Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum
-                        <a href="#">http://t.co/CGIrdxIlI3</a>
+                        <a href="http://t.co/CGIrdxIlI3">http://t.co/CGIrdxIlI3</a>
                         </span>
                         <b><a href="#">2 Days Ago</a></b>
                      </li>
@@ -104,7 +104,7 @@ class Contact extends Component {
                         eaque ipsa quae ab illo inventore veritatis et quasi
                         <a href="#">http://t.co/CGIrdxIlI3</a>
                         </span>
-                        <b style={{color: "white"}}><a href="#" >3 Days Ago</a></b>
+                        <b style={{color: "white"}}><a href="http://t.co/CGIrdxIlI3" >3 Days Ago</a></b>
                      </li>
                   </ul>
 		         </div>

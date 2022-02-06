@@ -102,7 +102,7 @@ class Contact extends Component {
                         <span style={{color: "white"}}>
                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
                         eaque ipsa quae ab illo inventore veritatis et quasi
-                        <a href="#">http://t.co/CGIrdxIlI3</a>
+                        <a href="http://t.co/CGIrdxIlI3">http://t.co/CGIrdxIlI3</a>
                         </span>
                         <b style={{color: "white"}}><a href="http://t.co/CGIrdxIlI3" >3 Days Ago</a></b>
                      </li>

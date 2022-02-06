@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import $ from 'jquery';
 import './App.css';
 import Header from './Components/Header';
 import Footer from './Components/Footer';
@@ -12,14 +11,14 @@ import { resumeData } from "./constants/config";
 
 class App extends Component {
 
-  constructor(props){
-    super(props);
-    // this.state = {
-    //   foo: 'bar',
-    //   resumeData: {}
-    // };
+  // constructor(props){
+  //   super(props);
+  //   this.state = {
+  //     foo: 'bar',
+  //     resumeData: {}
+  //   };
 
-  }
+  // }
 
   // getResumeData(){
   //   $.ajax({
